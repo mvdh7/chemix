@@ -1,2 +1,3 @@
 # chemix
-Python toolbox for mixing up solutions
+
+Python toolbox for mixing up solutions.
